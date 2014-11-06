@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_app">Welcome to this app!</string>
+    <string name="button_1_text">NEXT</string>
+    <string name="what_is_name_text">Hi! What is your name?</string>
+    <string name="button_enter_text">Enter</string>
+    <string name="call_act_text_view">The calling activity was</string>
+    <string name="nice_text_view"></string>
+
+</resources>
